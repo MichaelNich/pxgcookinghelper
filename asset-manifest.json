@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pxgcookinghelper/static/css/main.679bc509.css",
+    "main.js": "/pxgcookinghelper/static/js/main.cc826c71.js",
+    "index.html": "/pxgcookinghelper/index.html",
+    "main.679bc509.css.map": "/pxgcookinghelper/static/css/main.679bc509.css.map",
+    "main.cc826c71.js.map": "/pxgcookinghelper/static/js/main.cc826c71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.679bc509.css",
+    "static/js/main.cc826c71.js"
+  ]
+}
